@@ -20,8 +20,6 @@ async function getInfoMediumFull(){
     });
 }
 
-
-
 module.exports = (args) => {
     if(args.figlet){
         getInfoMediumFull()
