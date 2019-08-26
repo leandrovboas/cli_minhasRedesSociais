@@ -7,6 +7,7 @@ module.exports = (args) => {
 const menus = {
  main: `
 
+ ------------------------ HELP ------------------------
  redes-sociais .............. Exibe minha redes sociais
  twitter .................... Exibe meu Twitter
  linkedin ................... Exibe meu Linkedin

@@ -6,7 +6,7 @@ Utilizado para palestras em eventos como uma forma de apresentar as informaçõe
 
 ## Executar o commando
 
-Para executar o comando não precisa instalar o pacote, basta digita 
+Para executar o comando não precisa instalar o pacote, basta digitar 
 
 ```bash
 npx leandrovboas
